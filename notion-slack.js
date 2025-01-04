@@ -140,7 +140,7 @@ function doPost(e) {
               end: null, // 今回は終了日付は不要
             },
           },
-          Status: {
+          status: {
             status: {
               name: "未着手", // ステータス
             },
